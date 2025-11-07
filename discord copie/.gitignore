@@ -1,0 +1,21 @@
+# --- Environnement et secrets ---
+.env
+*.log
+
+# --- Fichiers Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Virtualenv ---
+.venv/
+venv/
+ENV/
+env/
+
+# --- MacOS ---
+.DS_Store
+
+# --- VS Code ---
+.vscode/
